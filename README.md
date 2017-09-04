@@ -21,9 +21,11 @@
 <span style = "font-size: 2em;">Launching the Virtual Machine:</span>
 
   Launch the Vagrant VM inside Vagrant sub-directory in the downloaded repository using command:
+  
      $ vagrant up
 
   Then ssh connect to it:
+  
      $ vagrant ssh
 
   Change directory to /vagrant.
